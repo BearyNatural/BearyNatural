@@ -1,0 +1,5 @@
+print("What is the name of your new pet?")
+pet = input("What is your new pet?")
+colour = input("What is your favourite colour?")
+name = input("What is the last thing you drank?")
+print("Your new pet " + pet + " is called " + colour + " " + name)
